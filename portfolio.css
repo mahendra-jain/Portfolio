@@ -1,0 +1,191 @@
+.nav-link{
+	font-size: 20px;
+	font-weight: 100;
+}
+.navbar-brand{
+	border: 2px solid white;
+	padding: 0 5px;
+}
+
+#column{
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/home.jpg);
+	margin-top: 1px;
+	padding-top:10%;
+	background-size: cover;
+}
+h1{
+	font-weight: 50;		
+	color: white;
+
+}
+#dp{
+	display: inline-block;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #b3bdc6;
+    position: relative;
+    border-radius: 50%;
+    font-size: 22px;
+ 	margin-left: 46%;  
+}
+#Displaypic{
+	width:80px;
+	height: 80px;
+	border-radius: 50%;
+}
+#myName{
+	color: red;
+	font-weight: 500; 
+}
+#profession{
+	color: darkgrey;
+}
+#btn{
+	margin-left: 41%;
+	margin-bottom: 10%;
+}
+@media (min-width: 1200px){
+.profilepic{
+	
+	width:60%;
+	height: auto;
+}
+}
+
+.line{
+	border: none;
+	border-top: 2px solid red;
+}
+.title{
+	padding-top:35px;
+}
+.card-link{
+	display: inline-block;
+	border-radius: 15px;
+	padding: 2px 5px;
+}
+#l1{
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+}
+#l2{
+	background-color: grey;
+	color: white;
+	border-radius: 5px;
+}
+.margin{
+	margin-top: 10%;
+}
+.skills{
+	color: grey;
+	font-weight: bold
+}
+#hr{
+	border-top: 2px solid red;
+	width: 170px;
+}
+.progress{
+	margin-top: 5%;
+
+}
+#prog{
+	margin-top: 16%;
+}
+.skill{
+	color: darkgrey;
+}
+#myWork{
+	margin-top: 10%;
+	text-align: center;
+}
+#hr2{
+	border-top: 2px solid red;
+}
+#workwithMe{
+	margin-top: 10%;
+	text-align: center;
+}
+#marbot{
+	margin-bottom: 10%;
+}
+
+.site-section{
+	margin-top: 5px;
+	padding-top: 10px;
+	background-color: #ffffe6;
+}
+.site-contact-details li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+.site-contact-details li > span {
+    color: #2c3e50;
+    letter-spacing: .1em;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    display: block;
+}
+
+textarea{
+	margin-top: 5px;
+	margin-left: 5px;
+	padding: 15px;
+	border: outset 1px;
+}
+#sendMe{
+	margin-top: 10px;
+	padding: 15px;
+	width: 150px;
+	background-color: red;
+	color: white;
+	text-transform: uppercase;
+	border: none;
+	border-radius: 15px;
+}
+#add{
+	color: darkgrey;
+}
+.social-items{
+	display: inline-block;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #b3bdc6;
+    position: relative;
+    border-radius: 50%;
+    font-size: 22px;
+    margin: 0 10px;
+}
+#icon1{
+	position: absolute;
+	top: 2%;
+	left: 28%;
+	font-size: 40px;
+}
+#icon2{
+	position: absolute;
+	top: 2%;
+	left: 20%;
+	font-size: 40px;
+}
+#icon3{
+	position: absolute;
+	top: -3%;
+	left: 23%;
+	font-size: 40px;
+}
+#icon4{
+	position: absolute;
+	top: 1%;
+	left: 25%;
+	font-size: 35px;
+}
+#name{
+	color: red;
+}
+#copyright{
+	color: darkgray;
+	text-transform: none;
+	margin-bottom: 5%;
+}
